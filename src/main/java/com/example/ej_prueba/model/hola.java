@@ -10,4 +10,5 @@ public class hola {
     public String toString() {
         return super.toString();
     }
+    public final;
 }
