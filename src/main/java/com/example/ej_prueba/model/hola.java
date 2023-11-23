@@ -10,5 +10,9 @@ public class hola {
     public String toString() {
         return super.toString();
     }
-    public final;
+    private String nombre;
+
+    public hola(String nombre) {
+        this.nombre = nombre;
+    }
 }
